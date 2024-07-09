@@ -21,8 +21,8 @@ RS485_DEVICE = {
         "target": {"id": "36", "cmd": "44", "ack": "C4"},
     },
     "plug": {
-        "state": {"id": "39", "cmd": "81"},
-        "power": {"id": "39", "cmd": "41", "ack": "C1"},
+        "state": {"id": "30", "cmd": "81"},
+        "power": {"id": "30", "cmd": "41", "ack": "C1"},
     },
     "gasvalve": {
         "state": {"id": "12", "cmd": "81"},
